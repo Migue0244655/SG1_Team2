@@ -1,0 +1,154 @@
+================================================================================
+STUDENT DATASET ANALYSIS REPORT
+================================================================================
+
+Total Students: 1000
+Total Variables: 16
+Analysis Date: 2025-05-29 18:24:06
+
+VARIABLE SUMMARY:
+--------------------------------------------------
+
+STUDENT_ID
+Description: Unique identifier
+Type: Categorical
+Domain: ID
+Valid Values: 1000/1000
+Unique Values: 1000
+Most Common: S1000 (1 times)
+----------------------------------------
+
+AGE
+Description: Age in years
+Type: Numerical
+Domain: Demographics
+Valid Values: 1000/1000
+Mean: 20.502
+Range: 7.0 (17.0 - 24.0)
+----------------------------------------
+
+GENDER
+Description: Student gender
+Type: Categorical
+Domain: Demographics
+Valid Values: 1000/1000
+Unique Values: 3
+Most Common: Female (480 times)
+----------------------------------------
+
+STUDY_HOURS_PER_DAY
+Description: Daily study hours
+Type: Numerical
+Domain: Academic
+Valid Values: 1000/1000
+Mean: 3.549
+Range: 8.3 (0.0 - 8.3)
+----------------------------------------
+
+SOCIAL_MEDIA_HOURS
+Description: Daily social media hours
+Type: Numerical
+Domain: Digital
+Valid Values: 1000/1000
+Mean: 2.505
+Range: 7.2 (0.0 - 7.2)
+----------------------------------------
+
+NETFLIX_HOURS
+Description: Daily Netflix hours
+Type: Numerical
+Domain: Entertainment
+Valid Values: 1000/1000
+Mean: 1.82
+Range: 5.4 (0.0 - 5.4)
+----------------------------------------
+
+PART_TIME_JOB
+Description: Has part-time job
+Type: Categorical
+Domain: Employment
+Valid Values: 1000/1000
+Unique Values: 2
+Most Common: No (785 times)
+----------------------------------------
+
+ATTENDANCE_PERCENTAGE
+Description: Class attendance %
+Type: Numerical
+Domain: Academic
+Valid Values: 1000/1000
+Mean: 84.102
+Range: 44.0 (56.0 - 100.0)
+----------------------------------------
+
+SLEEP_HOURS
+Description: Average sleep hours
+Type: Numerical
+Domain: Health
+Valid Values: 1000/1000
+Mean: 6.469
+Range: 6.8 (3.2 - 10.0)
+----------------------------------------
+
+DIET_QUALITY
+Description: Diet quality rating
+Type: Categorical
+Domain: Health
+Valid Values: 1000/1000
+Unique Values: 3
+Most Common: Fair (437 times)
+----------------------------------------
+
+EXERCISE_FREQUENCY
+Description: Exercise sessions/week
+Type: Numerical
+Domain: Health
+Valid Values: 1000/1000
+Mean: 3.04
+Range: 6.0 (0.0 - 6.0)
+----------------------------------------
+
+PARENTAL_EDUCATION_LEVEL
+Description: Parent education level
+Type: Categorical
+Domain: Socioeconomic
+Valid Values: 1000/1000
+Unique Values: 4
+Most Common: High School (392 times)
+----------------------------------------
+
+INTERNET_QUALITY
+Description: Internet connection quality
+Type: Categorical
+Domain: Infrastructure
+Valid Values: 1000/1000
+Unique Values: 3
+Most Common: Good (447 times)
+----------------------------------------
+
+MENTAL_HEALTH_RATING
+Description: Mental health rating 1-10
+Type: Numerical
+Domain: Health
+Valid Values: 1000/1000
+Mean: 5.435
+Range: 9.0 (1.0 - 10.0)
+----------------------------------------
+
+EXTRACURRICULAR_PARTICIPATION
+Description: Extracurricular participation
+Type: Categorical
+Domain: Academic
+Valid Values: 1000/1000
+Unique Values: 2
+Most Common: No (682 times)
+----------------------------------------
+
+EXAM_SCORE
+Description: Final exam score
+Type: Numerical
+Domain: Performance
+Valid Values: 1000/1000
+Mean: 69.605
+Range: 81.6 (18.4 - 100.0)
+----------------------------------------
